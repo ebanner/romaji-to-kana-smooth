@@ -1,6 +1,6 @@
 # romaji-to-kana-smooth
 
-Smoothly transition from romaji ⟶ hiragana ⟶ katakana ⟶ kanji.
+Smoothly transition learning romaji ⟶ hiragana ⟶ katakana ⟶ kanji.
 
 ![image](https://user-images.githubusercontent.com/2068912/74113470-2bf6f980-4b59-11ea-88e9-af0955ea471b.png)
 
