@@ -14,5 +14,11 @@ You can use with anki by including an iframe via the HTML editor, e.g.
 
 ## Comparison
 
-![Learning Japanese Traditionally v2](https://user-images.githubusercontent.com/2068912/74686166-7e519f00-5185-11ea-8594-41b50b4edb42.png)
+### Traditional way
+
+![Learning Japanese Traditionally v2](https://user-images.githubusercontent.com/2068912/74687363-0e451800-5189-11ea-8df4-3058be711c0e.png)
+
+### Smooth way
+
+![Learning Japanese Smoothly](https://user-images.githubusercontent.com/2068912/74687287-d938c580-5188-11ea-8b38-bdaa2c8f86ee.png)
 
