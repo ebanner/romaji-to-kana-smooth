@@ -12,7 +12,7 @@ Here is the traditional way people learn japanese writing, in stepwise/threshold
 
 Here is a different way learn japanese writing, in smooth, iterative fashion.
 
-![Learning Japanese Smoothly](https://user-images.githubusercontent.com/2068912/74687287-d938c580-5188-11ea-8b38-bdaa2c8f86ee.png)
+![Learning Japanese Smoothly](https://user-images.githubusercontent.com/2068912/74687987-e8207780-518a-11ea-929a-96b047d8d512.png)
 
 ## anki
 
